@@ -1,0 +1,18 @@
+**************REACT NATIVE LINKS*******************
+
+https://aboutreact.com/react-native-login-and-signup/
+
+https://www.youtube.com/watch?v=ZxP-0xbz5sg&list=PLQWFhX-gwJbmrCwksjn77tdl36dIWPFAt&index=2
+
+https://aboutreact.com/integrate-firebase-in-android-and-ios-app/
+
+
+
+
+23/07/2020
+https://www.youtube.com/watch?v=OEbzk7oiKuc&list=PLl6eqve20a7dmEdbZS1PUpga-dpz_5kTz
+
+28/07/2021
+https://console.firebase.google.com/project/crud-50fba/firestore/data/~2FUsers~2FRAbZpyxa4TH7a1N7tUnu
+https://www.kali.org/docs/usb/live-usb-install-with-windows/
+https://aboutreact.com/react-native-tab/#Output-in-Online-Emulator

@@ -1,0 +1,17 @@
+import React from 'react'
+
+import {View, Text,StyleSheet, SafeAreaView, ScrollView} from 'react-native'
+
+
+export default function App(){
+
+    return(
+    <ScrollView>
+	<SafeAreaView style={{flex:1}}>
+          <View>
+            	<Text>App</Text>
+       	  </View>
+	</SafeAreaView>
+    </ScrollView>
+    )
+}
